@@ -15,5 +15,5 @@ This script is designed to analyze a customer dataset using PySpark. The script 
 ### Dataset Analysis
 - **Salary Bracket Distribution:** The dataset shows a significant number of customers in the 'Medium' salary bracket.
 - **Gender Distribution:** The gender distribution is nearly even with a slight male predominance.
-- **Average Number of Flights per Province:** the average number of flights per province is fairly consistent across the different provinces. This indicates that there is little variation in flight frequency among provinces, implying that customers in different regions tend to have similar flying patterns..
+- **Average Number of Flights per Province:** the average number of flights per province is fairly consistent across the different provinces. This indicates that there is little variation in flight frequency among provinces, implying that customers in different regions tend to have similar flying patterns.
 
